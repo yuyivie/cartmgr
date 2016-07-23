@@ -15,6 +15,7 @@
   <url>http://maven.apache.org</url>
   <dependencies>
   
+  
    <!-- 把common中的内容引入进来 -->
 		<dependency>
 			<groupId>com.yuy</groupId>
